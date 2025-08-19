@@ -1,2 +1,3 @@
 # EAI-World
-My personal exploration log in Embodied AI, including literature notes, baseline reproductions, and experimental results.
+
+Personal exploration log in Embodied AI, including literature notes and experimental results, etc.
