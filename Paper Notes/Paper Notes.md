@@ -21,3 +21,7 @@ Paper notes and code notes will be presented here.
 `<C>`[InstructNav](https://lcnkjnnn32s8.feishu.cn/wiki/OPrQwFWw1ib4AokfrMYc426GnAd?from=from_copylink)
 
 `<P>`[VLN-R1](https://lcnkjnnn32s8.feishu.cn/wiki/JHmUweACfiGZNwkdGGscDQVJnhf?from=from_copylink)
+
+`<P>`[MultiVerse](https://lcnkjnnn32s8.feishu.cn/wiki/VxrCwO2WWi8lVNkW0Coc5T1dnRd?from=from_copylink)
+
+`<P>`[Peek into the  future ](https://lcnkjnnn32s8.feishu.cn/wiki/RGnrw9xsui630lkxu5hc8ajpn3d?from=from_copylink)
