@@ -29,3 +29,5 @@ Paper notes and code notes will be presented here.
 `<P>`[Falcon](https://lcnkjnnn32s8.feishu.cn/wiki/QGh7w9OMLiT48OkSe8xcwfFtnJg?from=from_copylink)
 
 `<P>`[HItter](https://lcnkjnnn32s8.feishu.cn/wiki/XQ2uw8bL0inYK1k794FcQKC9nJb?from=from_copylink)
+
+`<P>`[Navigation World Models](https://lcnkjnnn32s8.feishu.cn/wiki/UD2DwVlyqiF7k4kYo6Kcw1ISnle?from=from_copylink)
