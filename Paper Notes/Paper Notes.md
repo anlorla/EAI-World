@@ -1,8 +1,10 @@
 Paper notes and code notes will be presented here.
 
-:)  Currently I am focusing on VLN. (2025-08-19)
+:)  Currently I am focusing on VLN.
 
 '`<P>`' stands for 'Paper Reading', '`<C>`' means 'Code Reading'.
+
+After a period of searching, I will summarize  key points of these works as reports! ('`<R>`')
 
 # Surveys
 
@@ -12,9 +14,9 @@ Paper notes and code notes will be presented here.
 
 # Other Lists
 
-`<P>`[Towards Learning a Generalist Model for Embodied Navigation （2023）](https://lcnkjnnn32s8.feishu.cn/wiki/GAjmwKWjOiDkgekTw0gcj19onoh?from=from_copylink)
+`<P>`[Towards Learning a Generalist Model for Embodied Navigation](https://lcnkjnnn32s8.feishu.cn/wiki/GAjmwKWjOiDkgekTw0gcj19onoh?from=from_copylink)
 
-`<C>`[Towards Learning a Generalist Model for Embodied Navigation ](https://lcnkjnnn32s8.feishu.cn/wiki/MlfQwEKZEidKXjkHaWQcgqAgnYe?from=from_copylink)
+`<C>`[Towards Learning a Generalist Model for Embodied Navigation](https://lcnkjnnn32s8.feishu.cn/wiki/MlfQwEKZEidKXjkHaWQcgqAgnYe?from=from_copylink)
 
 `<P>`[InstructNav](https://lcnkjnnn32s8.feishu.cn/wiki/Il0Bwr38pim4vYkn8eNcUbV0nle?from=from_copylink)
 
@@ -31,3 +33,9 @@ Paper notes and code notes will be presented here.
 `<P>`[HItter](https://lcnkjnnn32s8.feishu.cn/wiki/XQ2uw8bL0inYK1k794FcQKC9nJb?from=from_copylink)
 
 `<P>`[Navigation World Models](https://lcnkjnnn32s8.feishu.cn/wiki/UD2DwVlyqiF7k4kYo6Kcw1ISnle?from=from_copylink)
+
+`<P>`[Following is all you need](https://lcnkjnnn32s8.feishu.cn/wiki/JdLlwaEaBi0xXjkTtCecNDt9nle?from=from_copylink)
+
+`<R>`[📑 MiniSurvey-01: Recent Advances in Navigation and Trajectory Prediction](https://lcnkjnnn32s8.feishu.cn/wiki/SeZlwqZyXiTZTmkGHOVcaJd4nxc?from=from_copylink)
+
+---
