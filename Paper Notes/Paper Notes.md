@@ -38,4 +38,10 @@ After a period of searching, I will summarize  key points of these works as repo
 
 `<R>`[📑 MiniSurvey-01: Recent Advances in Navigation and Trajectory Prediction](https://lcnkjnnn32s8.feishu.cn/wiki/SeZlwqZyXiTZTmkGHOVcaJd4nxc?from=from_copylink)
 
+Updated 09/20/25
+
 ---
+
+`<P>`[NavA^3](https://lcnkjnnn32s8.feishu.cn/wiki/XoUpwVpAXiw4Btk82Hrcl3c3nZb?from=from_copylink)
+
+`<P>`[FSR-VLN](https://lcnkjnnn32s8.feishu.cn/wiki/Aj12w2r6xiV08QkQ3Quc3uMfnDe?from=from_copylink)
