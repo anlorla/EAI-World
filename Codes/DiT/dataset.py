@@ -5,7 +5,7 @@ import torchvision
 class MNIST(Dataset):
     def __init__(self,is_train=True):
         super().__init__()
-        self.ds=torchvision.datasets.MNIST('../mnist/',train=is_train,download=True)
+        self.ds=torchvision.datasets.MNIST('../mnist/',train=is_train,download=False)
         self.img_convert=Compose([
             PILToTensor(),
         ])
